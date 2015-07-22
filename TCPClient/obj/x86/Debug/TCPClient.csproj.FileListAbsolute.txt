@@ -1,0 +1,12 @@
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\bin\Debug\TCPClient.exe
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\bin\Debug\TCPClient.pdb
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\obj\x86\Debug\TCPClient.Properties.Resources.resources
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\obj\x86\Debug\TCPClient.csproj.GenerateResource.Cache
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\obj\x86\Debug\TCPClient.exe
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\obj\x86\Debug\TCPClient.pdb
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\bin\Debug\TJSYXY.Communication.dll
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\bin\Debug\TJSYXY.Communication.pdb
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\obj\x86\Debug\TCPClient.csprojResolveAssemblyReference.cache
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\obj\x86\Debug\TCPClient.frmCreateTCPClient.resources
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\obj\x86\Debug\TCPClient.frmTCPClient.resources
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TCPClient\bin\Debug\TJSYXY.Communication.xml

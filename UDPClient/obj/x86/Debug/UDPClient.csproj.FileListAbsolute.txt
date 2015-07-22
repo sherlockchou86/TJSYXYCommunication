@@ -1,0 +1,12 @@
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\bin\Debug\UDPClient.exe
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\bin\Debug\UDPClient.pdb
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\obj\x86\Debug\UDPClient.Properties.Resources.resources
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\obj\x86\Debug\UDPClient.csproj.GenerateResource.Cache
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\obj\x86\Debug\UDPClient.exe
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\obj\x86\Debug\UDPClient.pdb
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\bin\Debug\TJSYXY.Communication.dll
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\bin\Debug\TJSYXY.Communication.pdb
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\obj\x86\Debug\UDPClient.csprojResolveAssemblyReference.cache
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\obj\x86\Debug\UDPClient.frmCreateUDPClient.resources
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\obj\x86\Debug\UDPClient.frmUDPClient.resources
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\UDPClient\bin\Debug\TJSYXY.Communication.xml
