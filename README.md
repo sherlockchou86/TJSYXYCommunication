@@ -3,19 +3,19 @@ a simple tcp/udp communication framework,support us to create multi-server(multi
 
 see more: http://www.cnblogs.com/xiaozhi_5638/p/4666957.html
 
-- file structure
+- **file structure**
 
 ![](https://github.com/sherlockchou86/TJSYXYCommunication/blob/master/file_structure.png)
 
-- manage multiple sockets in tcp server
+- **manage multiple sockets in tcp server**
 
 ![](https://github.com/sherlockchou86/TJSYXYCommunication/blob/master/multiple_tcp_server.png)
 
-- manage multiple sockets in tcp client
+- **manage multiple sockets in tcp client**
 
 ![](https://github.com/sherlockchou86/TJSYXYCommunication/blob/master/multiple_tcp_client.png)
 
-- manage multiple sockets in udp client
+- **manage multiple sockets in udp client**
 
 ![](https://github.com/sherlockchou86/TJSYXYCommunication/blob/master/multiple_udp_client.png)
 
@@ -40,11 +40,11 @@ see more: http://www.cnblogs.com/xiaozhi_5638/p/4666957.html
 
 	private void manager_TCPMessageReceived(string csID, TCPMessageRecivedEventArgs args)
 	{
-     	//csID indicates the server which activated the event(because of multiple servers).
-     	//args.Msg indicates the Message type we received,a Msg enum type.
-     	//args.Data indicates the Message data，byte[] type.
-     	//args.Time indicates the time when we received the message.
-     	//args.End indicates the remote endpoint who sent the message, TCPEndPoint type.
+		//csID indicates the server which activated the event(because of multiple servers).
+		//args.Msg indicates the Message type we received,a Msg enum type.
+		//args.Data indicates the Message data，byte[] type.
+		//args.Time indicates the time when we received the message.
+		//args.End indicates the remote endpoint who sent the message, TCPEndPoint type.
 	}
 	
 ### TCPCLient
@@ -88,12 +88,12 @@ see more: http://www.cnblogs.com/xiaozhi_5638/p/4666957.html
 
 	private void manager_UDPMessageReceived(string csID, UDPMessageReceivedEventArgs args)
 	{
-     	//csID indicates the client which activated the event(because of multiple clients)
-     	//args.Msg indicates th message type, Msg enum type.
-     	//args.Data indicates the message data, byte[] type.
-     	//args.Time indicates the time when we received the message.
-     	//args.RemoteIP indicates the ip who sent the message.
-     	//args.RemotePort indicates the port who sent the message.
+		//csID indicates the client which activated the event(because of multiple clients)
+		//args.Msg indicates th message type, Msg enum type.
+		//args.Data indicates the message data, byte[] type.
+		//args.Time indicates the time when we received the message.
+		//args.RemoteIP indicates the ip who sent the message.
+		//args.RemotePort indicates the port who sent the message.
 	}
 
 
